@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "nome": "Treino de Segunda",
+      "foto": "https://dode2511.github.io/disp-moveis/trab/fila.webp",
+      "preco": 175
+    },
+    {
+      "id": 2,
+      "nome": "Treino de Terça",
+      "foto": "https://dode2511.github.io/disp-moveis/trab/nike.webp",
+      "preco": 85
+    },
+    {
+      "id": 3,
+      "nome": "Treino de Quarta",
+      "foto": "https://dode2511.github.io/disp-moveis/trab/lacoste.jpg",
+      "preco": 100
+    },
+    {
+      "id": 4,
+      "nome": "Treino de Quinta",
+      "foto": "https://dode2511.github.io/disp-moveis/trab/vans.webp",
+      "preco": 150
+    }
+      {
+      "id": 6,
+      "nome": "Treino de Sexta",
+      "foto": "https://dode2511.github.io/disp-moveis/trab/vans.webp",
+      "preco": 150
+    }
+  ]
