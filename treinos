@@ -2,31 +2,31 @@
     {
       "id": 1,
       "nome": "Treino de Segunda",
-      "foto": "https://github.com/gabicavalheiro/desenvolvimento_disp.moveis/blob/main/treino.png",
+      "foto": "https://gabicavalheiro.github.io/desenvolvimento_disp.moveis/treinos.png",
       "preco": 175
     },
     {
       "id": 2,
       "nome": "Treino de Terça",
-      "foto": "https://github.com/gabicavalheiro/desenvolvimento_disp.moveis/blob/main/treino1.png",
+      "foto": "https://gabicavalheiro.github.io/desenvolvimento_disp.moveis/treinos1.png",
       "preco": 85
     },
     {
       "id": 3,
       "nome": "Treino de Quarta",
-      "foto": "https://github.com/gabicavalheiro/desenvolvimento_disp.moveis/blob/main/treino2.png",
+      "foto": "https://gabicavalheiro.github.io/desenvolvimento_disp.moveis/treinos2.png",
       "preco": 100
     },
     {
       "id": 4,
       "nome": "Treino de Quinta",
-      "foto": "https://github.com/gabicavalheiro/desenvolvimento_disp.moveis/blob/main/treino3.png",
+      "foto": "https://gabicavalheiro.github.io/desenvolvimento_disp.moveis/treinos3.png",
       "preco": 150
     }
       {
-      "id": 6,
+      "id": 5,
       "nome": "Treino de Sexta",
-      "foto": "https://github.com/gabicavalheiro/desenvolvimento_disp.moveis/blob/main/treino4.png",
+      "foto": "https://gabicavalheiro.github.io/desenvolvimento_disp.moveis/treinos4.png",
       "preco": 150
     }
   ]
